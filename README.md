@@ -1,3 +1,3 @@
-<h1>       Basic portfolio            </h1>
+<h1 align="center">       Basic portfolio            </h1>
 
-🔰 https://siamislam07.github.io/first-portfolio/
+<p align="center">🔰 https://siamislam07.github.io/first-portfolio/ </p>
